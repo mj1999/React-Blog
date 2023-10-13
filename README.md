@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+A project where user can post blog and see all current blogposts, where blogs are stored and retrieved from firebase datastore
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
